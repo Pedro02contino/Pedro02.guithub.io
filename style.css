@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+  
+  }
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(250, 229, 203);
+}
+
+h1 {
+    font-size:5e ;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-size:30px;
+    text-align: center;
+    font-family:sans-serif
+    
+}
+
+p {
+    font-family:sans-serif
+}
+
+.center{
+    text-align: center;
+}
+
+.profile-img {
+    border-radius: 5px;
+    height: 400px;
+    width: 400px;
+}
+
+img {
+    height: 400px;
+    width: 700px;
+}
+
+.conteiner{
+    padding: 50px 100px;
+    padding-top: 0px;
+}
